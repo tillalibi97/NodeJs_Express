@@ -5,7 +5,8 @@
   "main": "meadowlark.js",
   "scripts": {
     "dev": "nodemon meadowlark",
-    "start": "node meadowlark"
+    "start": "node meadowlark",
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
@@ -14,5 +15,8 @@
     "express": "^4.17.2",
     "express-handlebars": "^6.0.2",
     "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
   }
 }

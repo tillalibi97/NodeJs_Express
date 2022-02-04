@@ -1,6 +1,7 @@
 /node_modules
 .env
 *.p12
+/coverage
 package-lock.json
 /fn/Excel.xlsx
 *.pdf
