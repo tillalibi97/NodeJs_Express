@@ -17,6 +17,8 @@
     "nodemon": "^2.0.15"
   },
   "devDependencies": {
-    "jest": "^27.4.7"
+    "jest": "^27.4.7",
+    "portfinder": "^1.0.28",
+    "puppeteer": "^13.1.3"
   }
 }
