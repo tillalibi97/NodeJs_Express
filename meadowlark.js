@@ -1,7 +1,6 @@
 const express = require('express')
 const app = express()
 const expressHandlebars = require('express-handlebars')
-const fortune = require('./lib/fortune')
 const handlers = require('./lib/handlers')
 
 // Настройка механизма представлений Handlebars.
